@@ -33,7 +33,7 @@ setup(
     ],
     project_urls={
         'Bug Tracker': 'https://github.com/xterm-inator/sentry-nodestore-mongodb/issues',
-        'CI': 'https://ggithub.com/xterm-inator/sentry-nodestore-mongodb/actions',
+        'CI': 'https://github.com/xterm-inator/sentry-nodestore-mongodb/actions',
         'Source Code': 'https://github.com/xterm-inator/sentry-nodestore-mongodb',
     },
     keywords=['sentry', 'mongodb', 'nodestore', 'backend'],
